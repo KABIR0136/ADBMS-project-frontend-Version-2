@@ -81,3 +81,35 @@
 
 ```bash
 git clone <your-repo-link>
+ADMS-Frontend-V2/
+│── index.html                 # Dashboard (table view)
+│── add.html                   # Add new record page
+│── edit.html                  # Edit record page
+│
+│── css/
+│   └── style.css              # UI design
+│
+│── js/
+│   ├── app.js                 # Main CRUD logic
+│   ├── config.js              # API base URL (optional)
+│   └── validation.js          # Client-side validation (optional)
+│
+│── assets/
+│   └── screenshots/           # All screenshots
+│
+└── README.md                  # Documentation (this file)
+
+
+---
+
+# 🔥 তোমার জন্য Extra (যেটা করলে ১০০% মার্কস উঠবে)
+
+### ✅ Screenshot Must
+`assets/screenshots/` এ মিনিমাম ৩-৪টা ছবি দাও:
+- Table view
+- Add form
+- Edit form
+- Success notification
+
+### ✅ Repository Public
+GitHub repo অবশ্যই **Public** করতে হবে।
