@@ -46,6 +46,9 @@
   - "Record Updated Successfully"
   - "Record Deleted Successfully"
   - Error messages if request fails
+ 
+  
+<img width="1366" height="720" alt="image" src="https://github.com/user-attachments/assets/f416087e-e57d-4732-ba14-102ec5fa3da7" />
 
 ### 4️⃣ Technical Integration
 - 🌐 Backend API Integration using Fetch/Axios
@@ -59,6 +62,9 @@
   - Prevent empty field submission
 
 ---
+
+<img width="1422" height="1198" alt="image" src="https://github.com/user-attachments/assets/614fbeb6-33d1-4387-8535-17e31161a954" />
+
 
 ## 🛠️ Tech Stack
 - **HTML5**
